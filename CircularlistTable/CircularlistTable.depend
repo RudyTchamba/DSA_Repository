@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1675332361 source:/home/redeus/CodeBlocksProg/CircularlistTable/Array.c
+	<stdio.h>
+	<stdlib.h>
+	"Array.h"
+
+1675332261 /home/redeus/CodeBlocksProg/CircularlistTable/Array.h
+
+1675332347 source:/home/redeus/CodeBlocksProg/CircularlistTable/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Array.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674137469 source:/home/redeus/CodeBlocksProg/BST_Tree/BST_Tree.c
+	"BST_Tree.h"
+
+1674137373 /home/redeus/CodeBlocksProg/BST_Tree/BST_Tree.h
+	<stdio.h>
+	<stdlib.h>
+

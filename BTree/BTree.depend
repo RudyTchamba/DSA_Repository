@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1674138722 source:/home/redeus/CodeBlocksProg/BTree/BTree.c
+	<stdio.h>
+	<stdlib.h>
+	"BTree.h"
+
+1674138092 /home/redeus/CodeBlocksProg/BTree/BTree.h
+
+1674138666 source:/home/redeus/CodeBlocksProg/BTree/main.c
+	<stdio.h>
+	<stdlib.h>
+	"BTree.h"
+
