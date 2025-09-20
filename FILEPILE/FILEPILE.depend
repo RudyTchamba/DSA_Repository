@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1666940439 source:/home/redeus/CodeBlocksProg/FILEPILE/PileStatique.c
+	<stdio.h>
+	<stdlib.h>
+	"PileStatique.h"
+
+1666940444 /home/redeus/CodeBlocksProg/FILEPILE/PileStatique.h
+
+1666909582 source:/home/redeus/CodeBlocksProg/FILEPILE/main.c
+	<stdio.h>
+	<stdlib.h>
+	"PileStatique.h"
+	"PileDynamique.h"
+
+1666908644 source:/home/redeus/CodeBlocksProg/FILEPILE/PileDynamique.c
+	<stdio.h>
+	<stdlib.h>
+	"PileDynamique.h"
+
+1666940885 /home/redeus/CodeBlocksProg/FILEPILE/PileDynamique.h
+
+1666940268 source:/home/redeus/CodeBlocksProg/FILEPILE/FileStatique.c
+	<stdio.h>
+	<stdlib.h>
+	"FileStatique.h"
+
+1666939882 /home/redeus/CodeBlocksProg/FILEPILE/FileStatique.h
+
+1666940706 source:/home/redeus/CodeBlocksProg/FILEPILE/FileDyanamique.c
+	<stdio.h>
+	<stdlib.h>
+	"FileDynamique.h"
+
+1666942662 /home/redeus/CodeBlocksProg/FILEPILE/FileDynamique.h
+

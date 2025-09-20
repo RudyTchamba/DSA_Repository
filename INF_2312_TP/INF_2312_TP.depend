@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1674788633 source:/home/redeus/CodeBlocksProg/INF_2312_TP/main.c
+	<stdio.h>
+	<stdlib.h>
+	"abr.h"
+
+1674788383 /home/redeus/CodeBlocksProg/INF_2312_TP/abr.h
+
+1674788681 source:/home/redeus/CodeBlocksProg/INF_2312_TP/abr.c
+	<stdio.h>
+	<stdlib.h>
+	"abr.h"
+

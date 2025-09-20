@@ -1,0 +1,9 @@
+digraph G {
+    rankdir=LR;
+    start_A [shape=point];
+    start_A -> A;
+    A -> A [label="a"];
+    A -> B [label="a"];
+    A -> B [label="b"];
+    B [shape=doublecircle];
+}

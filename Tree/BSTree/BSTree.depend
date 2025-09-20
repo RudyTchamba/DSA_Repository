@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1668091196 source:/media/tchami/48EB-B0B1/Tree/BSTree/BSTree.c
+	"BSTree.h"
+
+1668089874 /media/tchami/48EB-B0B1/Tree/BSTree/BSTree.h
+	<stdio.h>
+	<stdlib.h>
+
+1668091196 source:/home/redeus/CodeBlocksProg/Tree/BSTree/BSTree.c
+	"BSTree.h"
+
+1668089874 /home/redeus/CodeBlocksProg/Tree/BSTree/BSTree.h
+	<stdio.h>
+	<stdlib.h>
+
+1668091744 source:/home/redeus/CodeBlocksProg/Tree/BSTree/main.c
+	"BSTree.h"
+
